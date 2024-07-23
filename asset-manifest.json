@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Udemy-Clone-React/static/css/main.34610a82.css",
-    "main.js": "/Udemy-Clone-React/static/js/main.811997ef.js",
-    "static/js/787.f6b2eaaf.chunk.js": "/Udemy-Clone-React/static/js/787.f6b2eaaf.chunk.js",
+    "main.css": "/Udemy-Clone-React/static/css/main.cba2124f.css",
+    "main.js": "/Udemy-Clone-React/static/js/main.674dce6a.js",
+    "static/js/787.5cabf3f9.chunk.js": "/Udemy-Clone-React/static/js/787.5cabf3f9.chunk.js",
     "static/media/alarm.png": "/Udemy-Clone-React/static/media/alarm.f8e6dac7aea480663d83.png",
     "index.html": "/Udemy-Clone-React/index.html",
-    "main.34610a82.css.map": "/Udemy-Clone-React/static/css/main.34610a82.css.map",
-    "main.811997ef.js.map": "/Udemy-Clone-React/static/js/main.811997ef.js.map",
-    "787.f6b2eaaf.chunk.js.map": "/Udemy-Clone-React/static/js/787.f6b2eaaf.chunk.js.map"
+    "main.cba2124f.css.map": "/Udemy-Clone-React/static/css/main.cba2124f.css.map",
+    "main.674dce6a.js.map": "/Udemy-Clone-React/static/js/main.674dce6a.js.map",
+    "787.5cabf3f9.chunk.js.map": "/Udemy-Clone-React/static/js/787.5cabf3f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34610a82.css",
-    "static/js/main.811997ef.js"
+    "static/css/main.cba2124f.css",
+    "static/js/main.674dce6a.js"
   ]
 }
